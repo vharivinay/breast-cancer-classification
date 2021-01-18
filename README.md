@@ -5,7 +5,7 @@
 This is a copy of UCI ML Breast Cancer Wisconsin (Diagnostic) datasets.
 https://goo.gl/U2Uwz2
 
-.. topic:: References
+**References**
 
    - W.N. Street, W.H. Wolberg and O.L. Mangasarian. Nuclear feature extraction 
      for breast tumor diagnosis. IS&T/SPIE 1993 International Symposium on 
